@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduCorrect AI",
+  "description": "Une plateforme d'apprentissage intelligente qui corrige vos copies, génère des quiz personnalisés et suit votre progression avec l'aide de l'IA Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
